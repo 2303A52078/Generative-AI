@@ -1,9 +1,7 @@
 # Generative-AI  
 ASSIGNMENT - 1  
-https://colab.research.google.com/drive/1UdfUTKpBdB6Pvj_B6l2KZahwZB4d84EM#scrollTo=WTgDGeSoIVpq   
 ASSIGNMENT - 2  
-https://colab.research.google.com/drive/16zLREIXuC36fikolQ7_S7H3LgDneoxUl   
 ASSIGNMENT - 3  
-https://colab.research.google.com/drive/1KeuxYPwkIGWWt_Y62WpQ8H_yaWyY-LsW#scrollTo=VBXNoDs7MCEh   
+
 ASSIGNMENT - 4  
-https://colab.research.google.com/drive/1OjllDBvhPF1woUEpNFxpzVccbLDMPQYb?pli=1&usp=chrome_ntp#scrollTo=Rpf6YQ4XOOzN   
+https://colab.research.google.com/github/2303A52078/Generative-AI/blob/main/GAI_ASS_4.ipynb   
