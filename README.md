@@ -1,5 +1,6 @@
 # Generative-AI  
 ASSIGNMENT - 1  
+https://colab.research.google.com/github/2303A52078/Generative-AI/blob/main/GAI_ASS_1.ipynb  
 ASSIGNMENT - 2  
 
 ASSIGNMENT - 3  
