@@ -13,3 +13,5 @@ ASSIGNMENT - 6
 https://colab.research.google.com/github/2303A52078/Generative-AI/blob/main/GAI_ASS_6_2.ipynb   
 ASSIGNMENT - 7   
 https://colab.research.google.com/github/2303A52078/Generative-AI/blob/main/GAI_ASS_7_2.ipynb  
+ASSIGNMENT - 8   
+https://colab.research.google.com/github/2303A52078/Generative-AI/blob/main/GAI_ASS_8_1.ipynb   
